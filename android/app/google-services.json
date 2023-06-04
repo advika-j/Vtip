@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995713606001",
+    "firebase_url": "https://v-tip-project.firebaseio.com",
+    "project_id": "v-tip-project",
+    "storage_bucket": "v-tip-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995713606001:android:fc8c764f9583c0ed",
+        "android_client_info": {
+          "package_name": "ml.app.vtip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995713606001-4cgrbcakkmfjm9enb2m5csjlpq1mtlgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.app.vtip",
+            "certificate_hash": "ce3f9758f63ec676f6211d9480f3efa05e703a19"
+          }
+        },
+        {
+          "client_id": "995713606001-3rpslhv4sap69j2dqp9hivcu94clsn1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8dK5Z1XGAKT4lqHfycao7sBD_9mJo73Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995713606001-3rpslhv4sap69j2dqp9hivcu94clsn1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
